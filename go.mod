@@ -1,4 +1,4 @@
-module us-pr-stash.saas-p.com/infapp/go-tufinclient
+module github.com/walkamongus/go-tufinclient
 
 go 1.13
 
